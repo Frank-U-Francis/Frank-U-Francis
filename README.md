@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Frank-U-Francis
 - 👀 I’m interested in Microcontrollers, firmware and software
-- 🌱 I’m currently learning about programming on assembler, C++ and C# languajes
+- 🌱 I’m currently learning about programming on assembler, VHDL, Python3, C++ and C# languajes
 - 💞️ I’m looking to collaborate on design embedded systems
 - 📫 How to reach me jmoraleso1602@alumno.ipn.mx
 
